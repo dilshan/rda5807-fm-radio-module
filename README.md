@@ -1,5 +1,5 @@
 # FM stereo receiver module
-![EL0002]()
+![EL0002 Module](https://raw.githubusercontent.com/dilshan/rda5807-fm-radio-module/refs/heads/main/resources/images/rda5807m-radio-module.jpg)
 
 This is an RDA5807 based FM stereo radio module. This module is designed to replace old, low-voltage, analog FM stereo receiver modules. Like many digital receivers, this module also got auto scanning, station memory, and digital volume control. This module can driver using 5V to 9V DC power source.
 
