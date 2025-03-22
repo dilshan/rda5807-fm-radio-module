@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RDA5807M
+D Single-chip broadcast FM stereo radio tuner 
+F https://datasheet.lcsc.com/szlcsc/1903041501_RDA-Microelectronics-RDA5807M_C82537.pdf
+$ENDCMP
+#
+#End Doc Library
