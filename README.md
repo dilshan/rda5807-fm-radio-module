@@ -9,7 +9,7 @@ The memory manager available with the current firmware can hold up to 10 station
 
 AF output power of this module is not sufficient to handle the pair of speakers. To drive speakers, this module needs to pair with a stereo AF power amplifier kit/module.
 
-This is an open-source hardware project. All the design files, [documentation](), and firmware source code are available to download at the [project source repository](https://github.com/dilshan/rda5807-fm-radio-module/tree/main/firmware). Content of this project is distributed under the terms of the following license:
+This is an open-source hardware project. All the design files, [documentation](https://github.com/dilshan/rda5807-fm-radio-module/wiki), and firmware source code are available to download at the [project source repository](https://github.com/dilshan/rda5807-fm-radio-module/tree/main/firmware). Content of this project is distributed under the terms of the following license:
 
  - Hardware License: [CERN-OHL-W](https://opensource.org/CERN-OHL-W)
  - Software License: [MIT License](https://github.com/dilshan/rda5807-fm-radio-module/blob/main/LICENSE)
