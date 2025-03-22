@@ -12,5 +12,5 @@ AF output power of this module is not sufficient to handle the pair of speakers.
 This is an open-source hardware project. All the design files, [documentation](), and firmware source code are available to download at the [project source repository](https://github.com/dilshan/rda5807-fm-radio-module/tree/main/firmware). Content of this project is distributed under the terms of the following license:
 
  - Hardware License: [CERN-OHL-W](https://opensource.org/CERN-OHL-W)
- - Software License: [](https://github.com/dilshan/rda5807-fm-radio-module/blob/main/LICENSE)
+ - Software License: [MIT License](https://github.com/dilshan/rda5807-fm-radio-module/blob/main/LICENSE)
  - Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
