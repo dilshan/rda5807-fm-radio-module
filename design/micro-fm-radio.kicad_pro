@@ -482,7 +482,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "micro-fm-radio.net",
-      "plot": "",
+      "plot": "../../el0002-release/fmradio-el0002-gerber-22032025A/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
