@@ -15,4 +15,4 @@ This is a [certified open-source hardware project](https://certification.oshwa.o
  - Software License: [MIT License](https://github.com/dilshan/rda5807-fm-radio-module/blob/main/LICENSE)
  - Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
  
- ![LK000014](https://raw.githubusercontent.com/dilshan/rda5807-fm-radio-module/refs/heads/main/resources/oshwa/LK000014.png)
+ [![LK000014](https://raw.githubusercontent.com/dilshan/rda5807-fm-radio-module/refs/heads/main/resources/oshwa/LK000014.png)](https://certification.oshwa.org/lk000014.html)
